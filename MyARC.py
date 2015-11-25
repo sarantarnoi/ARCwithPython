@@ -79,7 +79,8 @@ class ARC:
       
     else:
       "There is an error."
-   
+
+    # Printing the current status of all lists
     print "item: ", item
     print "Cache: ", self.cache
     print "p = ", self.p
